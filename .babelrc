@@ -1,0 +1,8 @@
+/* eslint-disable */
+{
+  "env": {
+  "development": {
+      "plugins": ["dynamic-import-node"]
+  }
+  }
+}
